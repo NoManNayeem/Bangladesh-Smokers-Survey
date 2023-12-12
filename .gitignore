@@ -1,0 +1,8 @@
+# Ignore a specific folder
+smoker_dataset/
+.ipynb_checkpoints/
+
+# Ignore specific files
+bangladesh_geojson_adm2_64_districts_zillas.json
+bd_district_long_lat.xlsx
+Districts_of_Bangladesh.csv
